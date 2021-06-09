@@ -17,3 +17,46 @@ http://bazarhd.online:80/307210113622/307210113622/83613?checkedby:iptvcat.com
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HINDI: B4U MUSIC"  group-title="Undefined",HINDI: B4U MUSIC
 http://bazarhd.online:80/3072101136
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" tvg-chno="1" group-title="Movies",Zee Cinema Hd
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" tvg-chno="1" group-title="Movies",Zee Cinema Hd(Link 2)
+http://cv.khushitv.xyz/channels.php?c=zcinemahd&m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" tvg-chno="1" group-title="Movies",Zee Cinema Hd(Link 3)
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeecinemahd
+
+#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" tvg-chno="1" group-title="Movies",Zee Cinema Sd
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeecinema
+
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://assets.botallen.live/images/t/SgriYijZDr.png" group-title="Movies",&Pictures Hd
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://assets.botallen.live/images/t/SgriYijZDr.png" group-title="Movies",&Pictures Hd(Link 2)
+http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
+
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://assets.botallen.live/images/t/SgriYijZDr.png" group-title="Movies",&Pictures Hd(Link 3)
+http://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-tvpictureshd
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_599,h_337,c_scale,f_auto,q_auto/resources/0-9-209/list/09209xplorhd.jpg" group-title="Movies",&Xplor Hd
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_auto,q_auto/resources/0-9-176/channel_list/09176zeeclassic.png" group-title="Movies",Zee Classic
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-176
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1118895770860707840/L24AlLOt.png" tvg-chno="3" group-title="Movies",Zee Cinema Me
+https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v3a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/zmMGXNQsCV.png" tvg-chno="4" group-title="Movies",&Pictures Sd
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/zmMGXNQsCV.png" tvg-chno="4" group-title="Movies",&Pictures Sd(Link 2)
+http://cv.khushitv.xyz/channels.php?c=andpicssd&m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/zmMGXNQsCV.png" tvg-chno="4" group-title="Movies",&Pictures Sd(Link 3)
+http://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-pictures
+
+#EXTINF:-1 tvg-name="Zee Cinema Us" tvg-logo="https://english.cdn.zeenews.com/sites/default/files/2019/04/03/774765-zee-cinema.jpg" group-title="Movies",Zee Cinema Us
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
